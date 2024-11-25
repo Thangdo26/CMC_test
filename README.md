@@ -1,4 +1,4 @@
-# Cheapest Operator Finding
+# Cheapest Operator Finding Author: Đỗ Đình Thắng
 
 This program determines the cheapest operator for a given phone number based on provided price lists.
 
