@@ -13,4 +13,4 @@ This program determines the cheapest operator for a given phone number based on 
    python cheapest_operator.py
 3. Run tests:
    ```python
-   python -m unittest test_cheapest_operator.py
+   python test_cheapest_operator.py
