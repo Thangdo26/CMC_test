@@ -8,3 +8,9 @@ This program determines the cheapest operator for a given phone number based on 
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+2. Clone the repository:
+   ```python
+   python cheapest_operator.py
+3. Run tests:
+   ```python
+   python -m unittest test_cheapest_operator.py
